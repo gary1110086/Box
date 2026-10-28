@@ -4,6 +4,8 @@ Changelog
 Version 7.4.1
 -------------
 
+* Release converted attribute aliases when keys are deleted or popped.
+
 * Fixing #303 Wrong version number (7.3.3) in 7.4.0 release (thanks to Michał Górny)
 
 Version 7.4.0
